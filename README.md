@@ -1,4 +1,4 @@
-# grades
+# grades calculator
 
 ## Project setup
 ```
