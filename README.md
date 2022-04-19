@@ -1,5 +1,7 @@
 # grades calculator
 
+demo: http://144.208.77.155/grades/
+
 ## Project setup
 ```
 npm install
